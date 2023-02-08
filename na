@@ -1,0 +1,31 @@
+[33mcommit acf90c2e421f1ba3399b5c0b58c49ef50d1ca5c1[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Merge: 107dc62 2516ccb
+Author: uaujin <0619kyj@naver.com>
+Date:   Wed Feb 8 16:04:16 2023 +0900
+
+    Merge branch 'join_topic' into dev
+
+[33mcommit 2516ccbeace658eaef6baf176783cda26f14cee7[m[33m ([m[1;32mjoin_topic[m[33m)[m
+Author: uaujin <0619kyj@naver.com>
+Date:   Wed Feb 8 16:02:36 2023 +0900
+
+    2. 회원가입완료
+
+[33mcommit 107dc62c8bd4da4665e64b184967896d73670804[m
+Merge: c09786f a52585a
+Author: uaujin <0619kyj@naver.com>
+Date:   Wed Feb 8 16:01:07 2023 +0900
+
+    Merge branch 'setting_topic' into dev
+
+[33mcommit a52585a68ee672e25f1b9e600d9c6a4caa5f9b38[m[33m ([m[1;32msetting_topic[m[33m)[m
+Author: uaujin <0619kyj@naver.com>
+Date:   Wed Feb 8 16:00:43 2023 +0900
+
+    1.환경설정완료
+
+[33mcommit c09786f497b7c49e65d7b24c9e4969e37a02e070[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: uaujin <67583588+uaujin@users.noreply.github.com>
+Date:   Wed Feb 8 15:48:24 2023 +0900
+
+    Initial commit
